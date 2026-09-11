@@ -166,6 +166,9 @@ A: Delete the folder. The program does not write to the registry and does not in
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full text.
 
+
+Note: High-risk features that rely on the snapshot function are currently just a promise (PUA in progress). Please wait for future versions.
+
 ---
 
 ## Credits
